@@ -1,0 +1,22 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Y School project</title>
+</head>
+<body>
+<center>
+<h1>Welcome to Y School </h1>
+<br>
+<br>
+<br>
+<table>
+<tr><td>
+ <a href="register.jsp"> <input type="button" value="Student Registration"></a>
+</td>
+<td>
+<input type="button" action="markes.jsp" value="Student Markes">
+ </td>
+</TABLE>	
+</body>
+</html>
